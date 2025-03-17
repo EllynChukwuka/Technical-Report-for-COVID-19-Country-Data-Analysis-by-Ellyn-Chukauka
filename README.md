@@ -173,8 +173,8 @@ Unexpected Outcomes
 Some nations had lower-than-expected mortality rates despite high case counts.
 Infection rates varied significantly even within the same geographical region.
 
-10. Conclusi<img width="927" alt="COVID-19 DAAHBOARD" src="https://github.com/user-attachments/assets/0ac85a5e-988d-4455-9fda-d7bde6f98c23" />
-on
+10. Conclusion<img width="927" alt="COVID-19 DAAHBOARD" src="https://github.com/user-attachments/assets/0ac85a5e-988d-4455-9fda-d7bde6f98c23" />
+
 Key Learnings
 Healthcare capacity is a critical factor in survival rates.
 Timely intervention significantly reduces fatality risk.
@@ -186,9 +186,10 @@ Future Research
 Incorporate vaccine efficacy data for deeper insights.
 Analyze the economic impact of pandemic response strategies.
 
-<img width="927" alt="COVID-19 DAAHBOARD" src="https://github.com/user-attachments/assets/83e34670-2022-420e-b6be-7fe3bd250db5" />
+
 References & Appendices
 Data Source: Publicly available COVID-19 statistics From WHO
 Excel Functions Used: SUMIFS, AVERAGEIFS, Pivot Tables
 This report provides a structured analysis of COVID-19 data to derive actionable insights for public health strategies.
 
+[Covid 19 country data set.xlsx](https://github.com/user-attachments/files/19284890/Covid.19.country.data.set.xlsx)
